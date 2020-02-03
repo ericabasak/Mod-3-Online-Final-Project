@@ -1,4 +1,3 @@
-
 # Wine and Chocolate Pairing!
 
 Welcome to wine and chocolate pairing app!
